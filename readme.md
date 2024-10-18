@@ -1,6 +1,6 @@
 # Shrekification with OpenCV and MediaPipe
 
-In one of the Shrek movies, Shrek turns into a human. Boring. Let's alter the narrative and instead turn everyone into Shrek. Using real-time face detection and emotion recognition via MediaPipe, and a good amount of OpenCV, my dream is now reality. Since my mom loves portrait mode on cameras, applied a gaussian blur to the background so Shrek can really be the star of the show. A color histogram is shown for nerds to enjoy. The project allows you to toggle the Shrek overlay on and off while interacting with the camera feed. (Multiple Shreks supported, but as with portrait mode, only one will be unblurred)
+In one of the Shrek movies, Shrek turns into a human. Boring. Let's alter the narrative and instead turn everyone into Shrek. Using real-time face detection and emotion recognition via MediaPipe, and a good amount of OpenCV, my dream is now reality. Since everyone loves portrait mode on cameras, I applied a gaussian blur to the background so Shrek can really be the star of the show. A color histogram is shown for nerds to enjoy. The project allows you to toggle the Shrek overlay on and off while interacting with the camera feed. (Multiple Shreks supported, but as with portrait mode, only one will be unblurred)
 
 ### Features
 - Face Detection: Real-time detection using MediaPipe's face mesh.
